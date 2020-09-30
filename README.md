@@ -20,5 +20,5 @@ Jaderberg, Max, et al. "Reading text in the wild with convolutional neural netwo
 Shi, Baoguang, Xiang Bai, and Cong Yao. "An end-to-end trainable neural network for image-based sequence recognition and its application to scene text recognition." IEEE transactions on pattern analysis and machine intelligence 39.11 (2016): 2298-2304.
 
 ## License
-Owner of the datasets is the [Visual Geometry Group](https://www.robots.ox.ac.uk/~vgg/data/text/). This repository only contains processed parts of that data.
+Owner of the dataset is the [Visual Geometry Group](https://www.robots.ox.ac.uk/~vgg/data/text/). This repository only contains processed parts of that data.
 Any (python) code is my own product and is licensed under the [MIT license](https://github.com/inlpi/ocr_crnn/blob/master/LICENSE).
